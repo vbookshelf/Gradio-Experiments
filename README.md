@@ -21,3 +21,7 @@ https://www.gradio.app/docs
 
 - Interface class with full list of parameters<br>
 https://www.gradio.app/docs/gradio/interface
+
+- Creating web demos from pipelines with gradio<br>
+(Huggingface Pipelines are automatically supported in Gradio: Interface.from_pipeline)<br>
+https://huggingface.co/docs/transformers/en/pipeline_tutorial#creating-web-demos-from-pipelines-with-gradio
