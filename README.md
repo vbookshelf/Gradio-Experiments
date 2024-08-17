@@ -23,5 +23,5 @@ https://www.gradio.app/docs
 https://www.gradio.app/docs/gradio/interface
 
 - Creating web demos from pipelines with gradio<br>
-(Huggingface Pipelines are automatically supported in Gradio: Interface.from_pipeline)<br>
+(Huggingface Pipelines are automatically supported in Gradio: gr.Interface.from_pipeline(pipe).launch())<br>
 https://huggingface.co/docs/transformers/en/pipeline_tutorial#creating-web-demos-from-pipelines-with-gradio
