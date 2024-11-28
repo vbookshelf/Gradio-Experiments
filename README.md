@@ -13,7 +13,12 @@ https://github.com/vbookshelf/Gradio-Experiments/tree/main/Exp1%20-%20Simple%20g
 
 ## Resources
 
+- Building Generative AI Applications with Gradio<br>
+  Deeplearning.Ai short course<br>
+  https://learn.deeplearning.ai/courses/huggingface-gradio/lesson/1/introduction
+
 - Gradio Course - Create User Interfaces for Machine Learning Models<br>
+1littlecoder<br>
 https://www.youtube.com/watch?v=RiCQzBluTxU
 
 - Gradio docs<br>
